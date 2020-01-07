@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\bin\Debug\bbbbbb.exe.config
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\bin\Debug\bbbbbb.exe
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\bin\Debug\bbbbbb.pdb
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.csprojAssemblyReference.cache
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.Properties.Resources.resources
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.csproj.GenerateResource.cache
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.exe
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.pdb
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.CadastrarForm.resources
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.ConsultarForm.resources
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.MenuForm.resources
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.ReceitasForm.resources
+C:\Users\alexi\source\repos\bbbbbb\bbbbbb\obj\Debug\bbbbbb.Estoque.resources
